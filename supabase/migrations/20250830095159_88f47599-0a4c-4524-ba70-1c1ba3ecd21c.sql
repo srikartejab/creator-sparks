@@ -1,0 +1,1 @@
+-- Seed data moved to supabase/seed.sql
